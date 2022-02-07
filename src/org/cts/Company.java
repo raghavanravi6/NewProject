@@ -13,5 +13,8 @@ public class Company {
 		c.compid();
 		c.compName();
 	}
+public void sub() {
+	System.out.println("Subtraction");
 
+}
 }
