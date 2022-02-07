@@ -17,4 +17,8 @@ public void sub() {
 	System.out.println("Subtraction");
 
 }
+public void add() {
+	System.out.println("addition");
+
+}
 }
